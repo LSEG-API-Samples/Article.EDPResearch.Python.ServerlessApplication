@@ -1,0 +1,16 @@
+{
+    "AttachedPolicies": [
+        {
+            "PolicyName": "AmazonS3FullAccess",
+            "PolicyArn": "arn:aws:iam::aws:policy/AmazonS3FullAccess"
+        },
+        {
+            "PolicyName": "AmazonSSMFullAccess",
+            "PolicyArn": "arn:aws:iam::aws:policy/AmazonSSMFullAccess"
+        },
+        {
+            "PolicyName": "AWSLambdaExecute",
+            "PolicyArn": "arn:aws:iam::aws:policy/AWSLambdaExecute"
+        }
+    ]
+}
